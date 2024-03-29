@@ -22,6 +22,7 @@ have this refresh is to keep customer engagement high and to cycle through the a
 different films to capture the popularity of said actor.
 
 For the report various SQL code was used and can be summarzied as below:
+
 CREATE OR REPLACE FUNCTION add_actor_name()
 RETURNS VOID
 AS
